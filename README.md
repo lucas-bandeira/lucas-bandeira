@@ -125,3 +125,6 @@
   <img src="https://profile-counter.glitch.me/lucas-bandeira/count.svg" />  
 </p> -->
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
